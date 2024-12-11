@@ -1,0 +1,22 @@
+header
+  logo
+  nav
+    link
+    link
+    link
+main
+  hero
+    title
+    description
+  features
+    card
+      title
+      description
+    card
+      title
+      description
+footer
+  copyright
+  social
+    link
+    link
